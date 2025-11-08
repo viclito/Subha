@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import subhaImage from '../Assets/image.png'
+import subhaImage from '../Assets/image.jpg'
 
 const confettiColors = ['#FF5DA2', '#FFE066', '#7C4DFF', '#4DD0E1']
 
